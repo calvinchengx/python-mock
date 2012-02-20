@@ -7,7 +7,7 @@
 :Author: `Michael Foord
  <http://www.voidspace.org.uk/python/weblog/index.shtml>`_
 :Version: |release|
-:Date: 2012/XX/XX
+:Date: 2012/02/13
 :Homepage: `Mock Homepage`_
 :Download: `Mock on PyPI`_
 :Documentation: `PDF Documentation
@@ -294,7 +294,7 @@ the `__call__` method.
 References
 ==========
 
-Articles and blog entries on testing with Mock:
+Articles, blog entries and other stuff related to testing with Mock:
 
 * `mock-django: tools for mocking the Django ORM and models
   <https://github.com/dcramer/mock-django>`_
